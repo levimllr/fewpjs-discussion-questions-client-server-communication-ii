@@ -2,8 +2,8 @@
 
 ## Objectives
 
-* Practice reading and reasoning about code
-* Discuss events with out
+* Explain what the `fetch` function is used for
+* Use `fetch` to retrieve data from a server
 
 ## Exercise
 
